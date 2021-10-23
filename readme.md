@@ -1,12 +1,9 @@
-### Hello world! I'm Lufri Rais Maulana.👋
+### Hello world! I'm Jerry Wilson Sitompul.👋
 
 ## I'm Fresh Graduate Developer and also like Gaming!
 
 - Focusing in Back-end Developer
 - Experience in Web/Android Development
-- Knowledge in Machine Learning with Tensorflow
-- Dota2, CSGO, Valheim and other Online Game (no gacha game)
-- Currently learning CA dan DDD in Golang
 
 ---
 
@@ -28,5 +25,5 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&layout=compact)
-![raismaulana's github stats](https://github-readme-stats.vercel.app/api?username=raismaulana&count_private=true&show_icons=true&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raismaulana&layout=compact)
+![raismaulana's github stats](https://github-readme-stats.vercel.app/api?username=raismaulana&count_private=true&show_icons=true&theme=radical) -->
