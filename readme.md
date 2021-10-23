@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrywilsonsitompul&label=Profile%20views&color=0e75b6&style=flat" alt="jerrywilsonsitompul" /> </p>
 
-- 🔭 I’m currently working on [SmartSKP PNS guru Kab. Kampar](https://smartskpdikporakampar.com/)
+- 🔭  I’m currently working on Sekretariat Daerah Kota Pekanbaru as Web Developer
 
 - 📫 How to reach me **jerrywilsonsitompul@gmail.com**
 
