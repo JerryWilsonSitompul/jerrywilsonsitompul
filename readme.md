@@ -6,7 +6,9 @@
 - 🔭  I’m currently working on Sekretariat Daerah Kota Pekanbaru as Web Developer
 
 - 📫 How to reach me **jerrywilsonsitompul@gmail.com**
-https://giphy.com/embed/USV0ym3bVWQJJmNu3N
+
+<p>&nbsp;<img align="center" src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" alt="jerrywilsonsitompul" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jerrywilsonsitompul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jerrywilsonsitompul" height="30" width="40" /></a>
