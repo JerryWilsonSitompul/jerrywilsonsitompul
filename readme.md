@@ -6,7 +6,7 @@
 - 🔭  I’m currently working on Sekretariat Daerah Kota Pekanbaru as Web Developer
 
 - 📫 How to reach me **jerrywilsonsitompul@gmail.com**
-<img src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
+<img src="https://github.com/JerryWilsonSitompul/jerrywilsonsitompul/blob/master/giphy.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
 
 
 
